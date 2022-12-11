@@ -18,8 +18,11 @@ Financial and arrears information
 ## Dashboard
 ![image](https://user-images.githubusercontent.com/33156021/206898688-128e3896-8f7e-47fb-8eb7-55b833f60e19.png)
 * Description: 
+
 Widgets: Leads, Units, Revenus/Payments, Revenus Periods;
+
 Other widgets: Overdue, Recurring Payment Schedule, Schedule Recall/Movable, Email Sent, SMS Sent.
+
 Attributes: 
 
 
